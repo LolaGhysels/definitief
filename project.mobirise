@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 3 BA",
-    "currentPage": "Boek.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -168,7 +168,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "Lola Ghysels",
+          "title": "Lola Ghysels<br>",
           "text": "Portfolio",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
